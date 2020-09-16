@@ -3,5 +3,5 @@
 Pariwat Promjai
  
 Username : cnoc
-Password : P@ssw0rd@928
+Password : cnoc1234
  
